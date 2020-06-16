@@ -1,0 +1,32 @@
+.img-boxx{
+    height: 55rem !important;
+}
+.tags{
+    display:flex;
+}
+.cont{
+    /* height: 30rem !important; */
+    background-repeat: repeat;
+    background-size: cover;
+    padding: 60px;
+   
+}
+.cont h2{
+    color: white;
+}
+
+@media only screen and (min-width:1000px){
+    #contact-form{
+        margin: 70px 140px 2px 150px;
+        
+    }
+}
+
+.form-contain{
+    background-color: #efefed;
+    padding: 20px;
+}
+.somedia{
+    font-weight: bold;
+    margin-top: 20px;
+}
